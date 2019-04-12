@@ -6,7 +6,7 @@ namespace BulletDodge.Map
 {
     public class Map : MonoBehaviour
     {
-        public int mapLenght;
+        public int mapLength;
 
         public int[][] map;
 
