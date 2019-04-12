@@ -2,10 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Map
+namespace BulletDodge.Map
 {
     public class Map : MonoBehaviour
     {
+        public int mapLenght;
+
+        public int[][] map;
+
+        public GameObject[] enemies;
+        
         
     }
 }

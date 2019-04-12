@@ -5,7 +5,7 @@ using UnityEngine;
 using Quaternion = UnityEngine.Quaternion;
 using Vector2 = UnityEngine.Vector2;
 
-namespace Player
+namespace BulletDodge.Player
 {
     public class PlayerControl : MonoBehaviour
     {
